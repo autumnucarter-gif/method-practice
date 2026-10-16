@@ -11,7 +11,7 @@ public static void sayHello() {
 }
 
 public static void sayGoodbye() {
-    System.out.println("Goobye!");
+    System.out.println("Goodbye!");
 }
 public static void sayGoodmorning() {
     System.out.println("Good morning!");
